@@ -15,9 +15,9 @@ A minimal To-Do Flutter application.
 :-------------------------:|:-------------------------:
 ![](usage/empty_list.jpg)  |  ![](usage/add_task.jpg)
 
-| Tasks List             |  Checking Tasks | Tasks List             |
+| Tasks List             |  Checking Tasks | Swipe to Dismiss/Delete          |
 :-------------------------:|:-------------------------:|:-------------------------:
-![](usage/task_list.jpg)  |  ![](usage/checked_items.jpg) | ![Swipe to Dismiss/Delete](usage/swipe_dismiss.jpg)
+![](usage/task_list.jpg)  |  ![](usage/checked_items.jpg) | ![](usage/swipe_dismiss.jpg)
 
 
 
