@@ -9,6 +9,7 @@ A minimal To-Do Flutter application.
     - Long Press
     - Swipe (Left/Right)
 - Task Status, i.e. Number of pending tasks is shown at the top
+- Material Dark Theme
  
 
 | Empty List             |  Add Task |
