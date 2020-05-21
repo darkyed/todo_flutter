@@ -8,7 +8,8 @@ A minimal To-Do Flutter application.
 - Delete Task
     - Long Press
     - Swipe (Left/Right)
-- Task Status, i.e. Number of pending tasks is shown at the top
+- Task Status, i.e. Total number of tasks are shown at the top
+    - Note: The number does not change with checking off tasks, unless deleted afterwards
 - Material Dark Theme
  
 
